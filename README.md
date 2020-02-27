@@ -1,7 +1,7 @@
 # paywitheasebuzz-magento-2.3.x-lib
 Integration Kit for Magento 2.3.x
 
-##Steps:
+## Steps:
 
 1. Download Magento Plugin from below link
 2. Paste app folder in your magento project
